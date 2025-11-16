@@ -1,5 +1,11 @@
 # ubuntu-dotfiles
-Configuration files for setting up an Ubuntu. Should work with most Debian based linux distros.
+Different types of configuration files for setting up an Ubuntu.
+Includes:
+- Fonts
+- Background images
+- .bashrc aliases
+- .zshhrc complete configurations (themes, plugins and more)
+Should work with most Debian based linux distros.
 
 ## Requirements
 ### Terminal
@@ -7,3 +13,4 @@ Configuration files for setting up an Ubuntu. Should work with most Debian based
 - OhMyZsh Framwork
 - Powerlevel 10k theme
 - Curl
+- Stow
