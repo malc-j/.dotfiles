@@ -9,9 +9,9 @@ Should work with most Debian based linux distros.
 
 ## Requirements
 ### Terminal
-- ZSH shell
-- OhMyZsh Framwork
-- Powerlevel 10k theme
-- Curl
-- Stow
-- Test
+- **ZSH shell**
+- **OhMyZsh Framwork**
+- **Powerlevel 10k theme**
+- **Curl**
+- [**Stow**](https://github.com/malc-j/.dotfiles/tree/main/docs/stow.md)
+- **Test**
