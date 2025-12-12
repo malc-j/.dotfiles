@@ -14,3 +14,4 @@ Should work with most Debian based linux distros.
 - Powerlevel 10k theme
 - Curl
 - Stow
+- Test
