@@ -1,4 +1,4 @@
-# :question: About 
+# About :bulb:  
 A set of dotfiles created to be used with **stow**. Different categories of configuration files for setting up an Ubuntu.
 Includes:
 - **Fonts**
@@ -14,15 +14,15 @@ Mostly used and updated from an Ubuntu. But it should work with most Debian base
 <br />
 <br />
 
-# :exclamation: Requirements 
-## :space_invader: Shell
+# Requirements :exclamation: 
+## Shell :space_invader:
 - **ZSH shell**
 - **OhMyZsh Framwork**
 - **Custom fonts**
 - **Powerlevel 10k theme**
 - **Curl**
 - [**Stow**](https://github.com/malc-j/.dotfiles/tree/main/docs/stow.md)
-## :computer: Desktop  
+## Desktop :computer:  
 - **gnome-tweaks**
 - **Extension manager**
 - **Color Palette**
@@ -31,8 +31,8 @@ Mostly used and updated from an Ubuntu. But it should work with most Debian base
 <br />
 <br />
 
-# :bulb: Getting started
-## :briefcase: Resources
+# Getting started :white_check_mark:
+##  Resources :briefcase:
 This sections covers the structure of the repository, and the different categories of resources.
 ### Repository
 Start by cloning the repository in your users home directory. If you navigate to the directory of the repository you will see a set of directories.
@@ -51,9 +51,11 @@ Here are all the different configuration files. These can all be synced att the 
 Just different background. Nothing more. Nothing Less.
 #### Docs 
 Additional dokumentation.
+
 <br>
 <br>
-## :space_invader: Shell
+
+## Shell :space_invader:
 This covers everything needed to set up the shell.
 ### Install zsh
 `sudo apt-get update`
@@ -80,7 +82,8 @@ Now just restart the terminal and the interactive configuration will start autom
 If it doesnt, run this command: `p10k configure`
 <br>
 <br>
-## Desktop
+
+## Desktop :computer:
 ### Palettes
 These are some nice pallettes that can be used when customizing the shell.
 Each list shows the index position in palette and HEX code the color.
