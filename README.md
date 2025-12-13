@@ -58,9 +58,10 @@ Additional dokumentation.
 ## Shell :space_invader:
 This covers everything needed to set up the shell.
 ### Install zsh
-`sudo apt-get update`
-`sudo apt-get install zsh`
-`zsh --version`
+- `sudo apt-get update`
+- `sudo apt-get install zsh`
+- `zsh --version`
+- `sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh`
 ### Install curl
 `curl --version`
 `sudo apt-get install curl`
@@ -68,6 +69,11 @@ This covers everything needed to set up the shell.
 `sudo apt-get install git`
 ### Install oh-my-zsh framework
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+### Install zsh plugins
+- `git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions`
+- `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting`
+- `git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting`
+- `git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete`
 ### Install Fonts
 Specific fonts are needed for rendering of icons in the terminal. For everything to work correcly these fonts need to be installed.
 However, these fonts can be found inside of the *./fonts* directory inside of this repository. Just click on them and install all **four** of them, then configure your terminal to use **MesloLGS NF**.
