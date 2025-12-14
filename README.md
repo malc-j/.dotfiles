@@ -92,21 +92,47 @@ If it doesnt, run this command: `p10k configure`
 ## Desktop :computer:
 ### Palettes
 These are some nice pallettes that can be used when customizing the shell.
-Each list shows the index position in palette and HEX code the color.
-- **Nord**
-0. **#2E3440**
-1. **#2B303C**
-2. **#3F8062**
-1. **#4C566A**
-2. **#D8DEE9**
-3. **#E5E9F0**
-4. **#ECEFF4**
-5. **#8FBCBB**
-6. **#88C0D0**
-7. **#81A1C1**
-8.  **#2BA15D**
-9.  **#BF616A**
-10. **#656B73**
-11. **#EBCB8B**
-12. **#A3BE8C**
-13. **#B48EAD**
+Each list shows the index position in palette and HEX code to the color itself.
+
+|**Nord v1**|         |  
+|  :-----:  |  :----: |
+| **Index** | **Hex** |
+|     0     |  #2E3440 |
+|     1     |  #2B303C |
+|     2     |  #3F8062 |
+|     3     |  #4C566A |
+|     4     |  #D8DEE9 |
+|     5     |  #E5E9F0 |
+|     6     |  #ECEFF4 |
+|     7     |  #8FBCBB |
+|     8     |  #88C0D0 |
+|     9     |  #81A1C1 |
+|    10     |  #2BA15D |
+|    11     |  #BF616A |
+|    12     |  #656B73 |
+|    13     |  #EBCB8B |
+|    14     |  #A3BE8C |
+|    15     |  #B48EAD |
+
+<br />
+<br />
+
+|**Nord POP**|         |  
+|  :-----:  |  :----: |
+| **Index** | **Hex** |
+|     0     |  #2E3440 |
+|     1     |  #2B303C |
+|     2     |  #3F8062 |
+|     3     |  #4C566A |
+|     4     |  #D8DEE9 |
+|     5     |  #E5E9F0 |
+|     6     |  #EBCB8B |
+|     7     |  #8FBCBB |
+|     8     |  #656B73 |
+|     9     |  #81A1C1 |
+|    10     |  #2BA15D |
+|    11     |  #BF616A |
+|    12     |  #88C0D0 |
+|    13     |  #EBCB8B |
+|    14     |  #A3BE8C |
+|    15     |  #B48EAD |
