@@ -80,20 +80,20 @@ ENABLE_CORRECTION="true"
 plugins=(
 	aliases
 	colorize
-	command-not-found
-	docker
+	#command-not-found
+	#docker
 	dotnet
 	emoji
 	git
-	k9s
-	kubectl
+	#k9s
+	#kubectl
 	nmap
-	node
-	npm
+	#node
+	#npm
 	nvm
 	podman
 	postgres
-	ssh
+	#ssh
 	sudo # Prefixes line with 'sudo' by double tapping 'ESC'
 	tmux
 	ubuntu

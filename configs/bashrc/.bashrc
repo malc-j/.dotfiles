@@ -89,7 +89,7 @@ fi
 
 # some more ls aliases
 alias ll='ls -alF'
-alias la='ls -A'
+alias la='ls -a'
 alias l='ls -CF'
 alias stc='stowc -t ~ -d /home/malc/.dotfiles/configs/ '
 alias stc='stowh -t ~ '
